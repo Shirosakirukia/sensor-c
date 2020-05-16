@@ -1,1 +1,1 @@
-# sensor-c
+# sensor-course
